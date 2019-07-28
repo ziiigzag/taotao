@@ -1,4 +1,7 @@
 ## 淘淘商城
+
+![Alt text](index.jpg)
+
 定义  
 B2C E-commerce：	B2C 模式电商系统  
 PM (Project Manager):	项目经理  
