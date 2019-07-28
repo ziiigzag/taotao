@@ -1,6 +1,6 @@
 ## 淘淘商城
 
-![Alt text](index.jpg)
+![Alt text](index.png)
 
 定义  
 B2C E-commerce：	B2C 模式电商系统  
