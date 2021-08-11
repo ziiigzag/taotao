@@ -1,4 +1,4 @@
-## 淘淘商城
+## 淘淘（SSM分布式B2C商品销售网站系统）
 
 ![Alt text](index.png)
 
